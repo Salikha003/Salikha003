@@ -9,6 +9,9 @@ Languages and tools I work with
 
 <br/>
 -📍&nbsp; Current location: Samarkand, Uzbekistan
+<br/>
 - 💻 &nbsp; Ask me about anything, I am happy to help
+- <br/>
 - 📑 &nbsp; How to reach me:[@_sal1kha_003](https://www.instagram.com/_sal1kha_003/)
+- <br/>
 

@@ -4,7 +4,7 @@ Languages and tools I work with
 <br/>
 <br/>
 <code><img src="https://w1.pngwing.com/pngs/696/924/png-transparent-html-logo-html5-badge-line-symbol-signage-thumbnail.png" width="30px"></code>
-<code><img src="https://www.pngwing.com/en/free-png-czfho width="30px"></code>
+<code><img src="https://www.pngwing.com/en/free-png-czfho" width="30px"></code>
 <code><img src="https://w1.pngwing.com/pngs/696/924/png-transparent-html-logo-html5-badge-line-symbol-signage-thumbnail.png" width="30px"></code>
 
 <br/>

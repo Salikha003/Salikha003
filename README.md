@@ -10,5 +10,5 @@ Languages and tools I work with
 <br/>
 -📍&nbsp; Current location: Samarkand, Uzbekistan
 - 💻 &nbsp; Ask me about anything, I am happy to help
-- <span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li> &nbsp; <li><a href="https://www.instagram.com/_sal1kha_003/">
+- 📑 &nbsp; How to reach me:[@_sal1kha_003](https://www.instagram.com/_sal1kha_003/)
 

@@ -4,8 +4,11 @@ Languages and tools I work with
 <br/>
 <br/>
 <code><img src="https://w1.pngwing.com/pngs/696/924/png-transparent-html-logo-html5-badge-line-symbol-signage-thumbnail.png" width="30px"></code>
-<code><img src="![image](https://github.com/Salikha003/Salikha003/assets/168297415/c3cb0471-6afb-4fd3-bf02-29e58b7d1cd7)
-" width="30px"></code>
 <code><img src="https://w1.pngwing.com/pngs/696/924/png-transparent-html-logo-html5-badge-line-symbol-signage-thumbnail.png" width="30px"></code>
 <code><img src="https://w1.pngwing.com/pngs/696/924/png-transparent-html-logo-html5-badge-line-symbol-signage-thumbnail.png" width="30px"></code>
+
+<br/>
+-📍&nbsp; Current location: Samarkand, Uzbekistan
+- 💻 &nbsp; Ask me about anything, I am happy to help
+- <span class="ico-circle"><i class="ion-social-instagram"></i></span></a></li> &nbsp; <li><a href="https://www.instagram.com/_sal1kha_003/">
 

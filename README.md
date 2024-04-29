@@ -1,20 +1,5 @@
 ### 𝐇𝐢, 𝐈 𝐚𝐦 𝐒𝐨𝐥𝐢𝐡𝐚 𝐇𝐮𝐬𝐧𝐢𝐝𝐝𝐢𝐧𝐨𝐯𝐚 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhseGdyY3U3bTNhNGE3MDZ0bjhjcWwwMzB0dTkwYzVseHhvdHQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30px"> </br>
 
-Languages and tools I work with 
-<br/>
-<br/>
-<code><img src="https://w1.pngwing.com/pngs/696/924/png-transparent-html-logo-html5-badge-line-symbol-signage-thumbnail.png" width="30px"></code>
-<code><img src="https://www.pngwing.com/en/free-png-czfho" width="30px"></code>
-<code><img src="https://w1.pngwing.com/pngs/696/924/png-transparent-html-logo-html5-badge-line-symbol-signage-thumbnail.png" width="30px"></code>
-
-<br/>
--📍&nbsp; Current location: Samarkand, Uzbekistan
-<br/>
-- 💻 &nbsp; Ask me about anything, I am happy to help
-- <br/>
-- 📑 &nbsp; Contact me:[@_sal1kha_003](https://www.instagram.com/_sal1kha_003/)
-- <br/>
-
 <a href="#">
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=blocage&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
 </a>
@@ -28,3 +13,13 @@ Languages and tools I work with
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
 </p>
+
+<br/>
+-📍&nbsp; Current location: Samarkand, Uzbekistan
+<br/>
+- 💻 &nbsp; Ask me about anything, I am happy to help
+- <br/>
+- 📑 &nbsp; Contact me:[@_sal1kha_003](https://www.instagram.com/_sal1kha_003/)
+- <br/>
+
+

@@ -24,6 +24,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+  <img src="https://profile![Uploading contributions.svg…]()
+-counter.glitch.me/_blocage/count.svg" />
 </p>
 

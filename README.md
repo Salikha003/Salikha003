@@ -20,7 +20,7 @@
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 
-<a href=#><img src="c![Uploading contributions.svg…]()
+<a href=#><img src="https://github.com/blocage/blocage/raw/main/contributions.svg"></a>
 ontributions.svg"></a>
 
 <p align="center">

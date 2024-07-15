@@ -11,6 +11,7 @@
 <br/>
 <br/>
 
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -60,9 +61,7 @@
 
 
 
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=blocage&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
+
 
 <a href=#><img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"></a>
 

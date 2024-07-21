@@ -17,7 +17,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages-Frameworks-Tools :
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -35,7 +35,7 @@
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django Logo" width="40" height="40" />
   <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework Logo" width="40" height="40" />
-
+  <img src="https://skillicons.dev/icons?i=mui,tailwind,styledcomponents,vscode,github,git" />
 
 </div>
 

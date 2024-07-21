@@ -32,7 +32,7 @@
   <img src="https://img.icons8.com/?size=100&id=R4VcwSUB5MnB&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
   <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=webp&w=256" alt="Django Logo" width="40" height="40" />&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/128/10329/10329422.png" alt="API" width="40" height="40" />&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/128/10329/10329422.png" alt="API" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux Logo" width="30" height="35" />&nbsp;
   <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="Kali Linux Logo" width="45" height="45" />&nbsp;
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="30" height="30" />&nbsp;

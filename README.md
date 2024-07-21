@@ -57,6 +57,12 @@
 <h4 align="center">Soliha Xusnidinova</h4>
 
 
+<h3>Stars</h3>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salikha003&hide=C&langs_count=8&theme=highcontrast" alt="Salikha003" />
+
+<p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&locale=en&theme=highcontrast" alt="Salikha003" /></p>
+
+<h4>Soliha Xusnidinova</h4>
 
 
 

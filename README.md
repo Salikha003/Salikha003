@@ -49,12 +49,9 @@
 
 
 
-<h3 align="center">Stars</h3>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salikha003&hide_progress=true&theme=highcontrast" alt="Salikha003" />
-
+### ⭐ &nbsp; Stars :
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&locale=en&theme=highcontrast" alt="Salikha003" /></p>
 
-<h4 align="center">Soliha Xusnidinova</h4>
 
 
 <h3>Stars</h3>
@@ -62,7 +59,7 @@
 
 <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&locale=en&theme=highcontrast" alt="Salikha003" /></p>
 
-<h4>Soliha Xusnidinova</h4>
+
 
 <br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salikha003&theme=aura_dark" height="180em" />

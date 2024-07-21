@@ -7,7 +7,7 @@
 <br/>
 - 💻 &nbsp; Ask me about anything, I am happy to help
 - <br/>
-- 📑 &nbsp; Contact me:[@_sal1kha_003]<a href="https://instagram.com/_sal1kha_003/" target="_blank" style="display: inline-block; padding-top: 20px;">
+- 📑 &nbsp; Contact me:[@_sal1kha_003]<a href="https://instagram.com/_sal1kha_003/" target="_blank" style="display: inline-block; padding-top: 10px;">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 

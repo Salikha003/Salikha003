@@ -58,16 +58,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salikha003&theme=2077" height="180em" />
 
 
-<br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salikha003&theme=github_dark" height="180em" />
-<br><br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salikha003&theme=github_dark" height="180em" />
-
-
-
-
-
-
 
 
 <a href=#><img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"></a>

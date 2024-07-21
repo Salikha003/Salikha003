@@ -29,14 +29,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="GitHub Logo" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Visual_Studio_Code_2019_logo.svg" alt="VSCode Logo" width="40" height="40" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1200px-Octicons-mark-github.svg.png" alt="GitHub Logo" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="Django Logo" width="40" height="40" />
   <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST Framework Logo" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=mui,tailwind,styledcomponents,vscode,github,git" />
-
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux Logo" width="40" height="40" />
 </div>
 
 

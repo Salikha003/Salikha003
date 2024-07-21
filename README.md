@@ -53,6 +53,8 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&locale=en&github&border_radius=10" alt="Salikha003" /></p>
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&locale=en&github&border_radius=10" alt="Salikha003" /></p>
+
 ---
 
 <br>

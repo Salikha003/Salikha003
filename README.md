@@ -31,10 +31,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="40" height="40" />
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="30" height="30" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux Logo" width="30" height="30" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Kali_Linux_logo.svg/1024px-Kali_Linux_logo.svg.png" alt="Kali Linux Logo" width="40" height="40" />
-  <img src="https://avatars.githubusercontent.com/u/6207938?s=200&v=4" alt="Kali Linux GitHub Logo" width="40" height="40" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kali_Linux_logo_2020.svg/1024px-Kali_Linux_logo_2020.svg.png" alt="Kali Linux Logo" width="40" height="40" />
-
 </div>
 
 

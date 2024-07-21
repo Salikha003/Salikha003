@@ -51,7 +51,7 @@
 
 <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Salikha&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jamshid-ds&show_icons=true&locale=en&theme=highcontrast" alt="jamshid-ds" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&locale=en&theme=highcontrast" alt="Salikha003" /></p>
 
 ---
 

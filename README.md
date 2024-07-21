@@ -35,6 +35,7 @@
   <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="Kali Linux Logo" width="40" height="45" />&nbsp;
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
   <img src="https://img.icons8.com/?size=100&id=R4VcwSUB5MnB&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
 </div>
 
 

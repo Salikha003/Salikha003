@@ -36,6 +36,8 @@
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
   <img src="https://img.icons8.com/?size=100&id=R4VcwSUB5MnB&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
   <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-django-1-282754.png?f=webp&w=256" alt="Django Logo" width="40" height="40" />
+
 </div>
 
 

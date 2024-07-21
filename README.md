@@ -7,7 +7,7 @@
 <br/>
 - 💻 &nbsp; Ask me about anything, I am happy to help
 - <br/>
-- 📑 &nbsp; Contact me:[@_sal1kha_003](https://www.instagram.com/_sal1kha_003/)
+- 📑 &nbsp; Contact me:[@_sal1kha_003]<a href="https://instagram.com/_sal1kha_003/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br/>
 <br/>
 

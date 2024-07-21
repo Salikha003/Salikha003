@@ -64,7 +64,10 @@
 
 <h4>Soliha Xusnidinova</h4>
 
-
+<br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salikha003&theme=aura_dark" height="180em" />
+<br>
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salikha003&theme=2077" height="180em" />
 
 
 

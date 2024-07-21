@@ -32,6 +32,8 @@
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="30" height="35" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux Logo" width="30" height="35" />&nbsp;
   <img src="https://user-images.githubusercontent.com/6207938/64928716-49c0c700-d80c-11e9-8407-2d63b80429a2.png" alt="Kali Linux Logo" width="40" height="40" />&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Github.png" alt="GitHub Logo" width="40" height="40" />
+
 
 </div>
 

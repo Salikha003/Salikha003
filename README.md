@@ -51,13 +51,12 @@
 
 ---
 
-### 📈 &nbsp; Statistics :
 <br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Salikha003&theme=aura_dark" height="180em" />
 <br>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Salikha003&theme=2077" height="180em" />
 
-
+---
 
 
 <a href=#><img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"></a>
@@ -66,4 +65,35 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
 </p>
+
+
+
+
+
+
+
+# Salikha003's GitHub Profile
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Salikha003&theme=dark&background=000000)](https://git.io/streak-stats)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salikha003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&locale=en&theme=highcontrast" alt="Salikha003" /></p>
+<br><br>
+<img src="https://github.com/users/Salikha003/contributions" alt="GitHub Activity Graph" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

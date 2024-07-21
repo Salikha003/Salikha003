@@ -32,8 +32,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="40" height="40" />&nbsp;
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
   <img src="https://img.icons8.com/?size=100&id=R4VcwSUB5MnB&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
-  <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux Logo" width="30" height="35" />&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux Logo" width="30" height="35" />
   <img src="https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000" alt="Kali Linux Logo" width="45" height="45" />&nbsp;
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="30" height="30" />&nbsp;
 </div>

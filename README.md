@@ -31,14 +31,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="40" height="40" />&nbsp;
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode Logo" width="30" height="35" />&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux Logo" width="30" height="35" />&nbsp;
-  <img src="https://user-images.githubusercontent.com/6207938/64928716-49c0c700-d80c-11e9-8407-2d63b80429a2.png" alt="Kali Linux Logo" width="40" height="40" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Kali_Linux_2.0_wordmark.svg" alt="Kali Linux Logo" width="40" height="40" style="filter: invert(1);" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/GitHub-Mark.svg" alt="GitHub Logo" width="40" height="40" />
-
-
-
-
-
+  <img src="https://kali.tools/wp-content/uploads/2020/01/kali-tools.png" alt="Kali Linux Logo" width="40" height="40" />
 </div>
 
 

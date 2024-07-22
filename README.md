@@ -8,7 +8,8 @@
 - 💻 &nbsp; Ask me about anything, I am happy to help
 <br>
 - 📑 &nbsp; Contact me:[@_sal1kha_003]<a href="https://instagram.com/_sal1kha_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="_sal1kha_003" height="30" width="40" /></a></p>
-
+<br>
+-🌙 &nbsp; My life principle is - "لا حول ولا قوة الا بالله العلي العظيم"
 ---
 
 ### :hammer_and_wrench: Languages-Frameworks-Tools :

@@ -26,7 +26,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Logo" width="40" height="40" />&nbsp;
   <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="GitHub Logo" width="40" height="40" />&nbsp;&nbsp;
      <a href="https://github.com/your_username" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/github.svg" alt="Salikha003" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/github.svg" alt="GitHub" height="30" width="40" />
     </a>
   
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1024px-Tux.svg.png" alt="Linux Logo" width="30" height="35" />

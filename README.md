@@ -11,9 +11,28 @@
 
 -🌙 &nbsp; My life principle is - لا حول ولا قوة الا بالله العلي العظيم
 
-## Connect with me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+2YgycKLPJ6kyZWYy)
+
+## Connect with me
+
+<p align="center">
+  <a href="https://t.me/+2YgycKLPJ6kyZWYy" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"/>
+  </a>
+  <br>
+  <a href="https://t.me/+2YgycKLPJ6kyZWYy" target="_blank">Join my Telegram Channel</a>
+</p>
+
+
+## Connect with me
+
+<p align="center">
+  <a href="https://t.me/+2YgycKLPJ6kyZWYy" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Join%20my%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+  </a>
+</p>
+
 
 ---
 

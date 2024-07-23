@@ -11,7 +11,8 @@
 
 -🌙 &nbsp; My life principle is - لا حول ولا قوة الا بالله العلي العظيم
 
-My channel: <a href="https://t.me/+2YgycKLPJ6kyZWYy" target="_blank">
+My channel: 
+<a href="https://t.me/+2YgycKLPJ6kyZWYy" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-Join%20my%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
 </a>
 

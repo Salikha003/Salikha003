@@ -10,7 +10,7 @@
 - 📑 &nbsp; Contact me:[@_sal1kha_003]<a href="https://instagram.com/_sal1kha_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="_sal1kha_003" height="30" width="40" /></a></p>
 
 <a href="https://t.me/Sal1kha_003" target="_blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo_2019.svg/512px-Telegram_logo_2019.svg.png" alt="Sal1kha_003" height="30" width="30" />
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo_2019.svg" alt="Sal1kha_003" height="30" width="30" />
 </a>
 
 

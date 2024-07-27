@@ -1,5 +1,9 @@
-### 𝐇𝐢, 𝐈 𝐚𝐦 𝐒𝐨𝐥𝐢𝐡𝐚 𝐇𝐮𝐬𝐧𝐢𝐝𝐝𝐢𝐧𝐨𝐯𝐚 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhseGdyY3U3bTNhNGE3MDZ0bjhjcWwwMzB0dTkwYzVseHhvdHQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30px"> </br>
+### 𝐇𝐞𝐥𝐥𝐨 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhseGdyY3U3bTNhNGE3MDZ0bjhjcWwwMzB0dTkwYzVseHhvdHQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30px"> </br>, 𝐈 𝐚𝐦 𝐒𝐨𝐥𝐢𝐡𝐚 𝐇𝐮𝐬𝐧𝐢𝐝𝐝𝐢𝐧𝐨𝐯𝐚
 
+
+I’m Soliha, and I’m deeply passionate about learning new technologies and creating innovations as a developer. I have experience with Python, Django, and Django REST Framework, and I thoroughly enjoy working with PostgreSQL and MySQL databases. Currently, I’m excited to be learning REST API and Java.
+
+I believe that technology has the power to make the world better, and every project is a step towards that goal. I eagerly look forward to tackling new challenges and engaging with interesting projects. I’m always open to new ideas and development opportunities.
 
 
 <br>
@@ -8,12 +12,6 @@
 - 💻 &nbsp; Ask me about anything, I am happy to help
 <br>
 - 📑 &nbsp; Contact me:[@_sal1kha_003]<a href="https://instagram.com/_sal1kha_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="_sal1kha_003" height="30" width="40" /></a></p>
-
-<a href="https://t.me/Sal1kha_003" target="_blank">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-telegram-social-media-flaticons-lineal-color-flat-icons.png" alt="Sal1kha_003" height="30" width="30" />
-</a>
-
-
 
 -🌙 &nbsp; My life principle is - لا حول ولا قوة الا بالله العلي العظيم
 

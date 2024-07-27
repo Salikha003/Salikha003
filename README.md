@@ -9,21 +9,10 @@
 <br>
 - 📑 &nbsp; Contact me:[@_sal1kha_003]<a href="https://instagram.com/_sal1kha_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="_sal1kha_003" height="30" width="40" /></a></p>
 
-
 <a href="https://t.me/Sal1kha_003" target="_blank">
-  <img src="https://img.icons8.com/ios/452/telegram-app.png" alt="Sal1kha_003" height="30" width="30" />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-telegram-social-media-flaticons-lineal-color-flat-icons.png" alt="Sal1kha_003" height="30" width="30" />
 </a>
 
-<a href="https://t.me/Sal1kha_003" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" alt="Sal1kha_003" height="30" width="30" />
-</a>
-
-<a href="https://t.me/Sal1kha_003" target="_blank">
-  <svg width="30" height="30" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="12" cy="12" r="10" fill="#0088cc"/>
-    <path d="M7.5 12l11.25-4.5-1.5 11.25L7.5 12z" fill="white"/>
-  </svg>
-</a>
 
 
 -🌙 &nbsp; My life principle is - لا حول ولا قوة الا بالله العلي العظيم

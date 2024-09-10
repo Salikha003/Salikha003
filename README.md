@@ -21,7 +21,6 @@ I believe that technology has the power to make the world better, and every proj
 
 -🌙 &nbsp; My life principle is - لا حول ولا قوة الا بالله العلي العظيم
 
----
 
 ## My channel :
 

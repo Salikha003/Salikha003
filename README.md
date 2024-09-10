@@ -29,6 +29,8 @@ I believe that technology has the power to make the world better, and every proj
 * [Django loyihani Herokuga yuklash bo'yicha qo'llanma](https://github.com/sevbo2003/common-python-problems/blob/master/djangoni-herokuga-yuklash.md)(2022-05-01)
 * [Djangoda static filelarning ishlamaslik muammosi](https://github.com/sevbo2003/common-python-problems/blob/master/django-static-filelar.md) (2022-04-22)
 
+---
+
 ## My channel :
 
 <a href="https://t.me/+2YgycKLPJ6kyZWYy" target="_blank">

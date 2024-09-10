@@ -11,11 +11,6 @@ I believe that technology has the power to make the world better, and every proj
 <br/>
 - 💻 &nbsp; Ask me about anything, I am happy to help
 <br>
-- 📑 &nbsp; Contact me:[@_sal1kha_003]<a href="https://instagram.com/_sal1kha_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="_sal1kha_003" height="30" width="40" /></a></p>
-
-<a href="https://t.me/drift_enthusiast" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" alt="Telegram" height="30" width="40" /></a></p>
-
-<a href="mailto:solihahusniddinova27gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" height="30" width="40" /></a></p>
 
 <p>- 📑 &nbsp; Contact me: 
 <a href="https://instagram.com/_sal1kha_003" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>

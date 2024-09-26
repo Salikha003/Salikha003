@@ -1,22 +1,21 @@
-<div style="background-color: black; color: #00ff00; font-family: 'Courier New', Courier, monospace; position: relative; overflow: hidden; height: 400px;">
+<div style="background-color: black; color: #00ff00; font-family: 'Courier New', monospace; padding: 20px; height: 200px; overflow: hidden; position: relative;">
+    <div style="position: absolute; white-space: nowrap; animation: fall 5s linear infinite;">
+        <span style="display: inline-block;">0</span>
+        <span style="display: inline-block; animation-delay: 0.2s;">1</span>
+        <span style="display: inline-block; animation-delay: 0.4s;">0</span>
+        <span style="display: inline-block; animation-delay: 0.6s;">1</span>
+        <span style="display: inline-block; animation-delay: 0.8s;">0</span>
+        <span style="display: inline-block; animation-delay: 1s;">1</span>
+    </div>
 
-  <div style="position: absolute; white-space: nowrap; overflow: hidden;">
-    <span style="display: inline-block; animation: fall 4s linear infinite;">0</span>
-    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 0.2s;">1</span>
-    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 0.4s;">0</span>
-    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 0.6s;">1</span>
-    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 0.8s;">0</span>
-    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 1s;">1</span>
-  </div>
-
-  <style>
-    @keyframes fall {
-      0% { transform: translateY(-100%); opacity: 1; }
-      100% { transform: translateY(100%); opacity: 0; }
-    }
-  </style>
-
+    <style>
+        @keyframes fall {
+            0% { transform: translateY(-100%); opacity: 1; }
+            100% { transform: translateY(100%); opacity: 0; }
+        }
+    </style>
 </div>
+
 
 
 

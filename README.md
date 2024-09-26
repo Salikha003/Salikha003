@@ -1,34 +1,35 @@
-<style>
-  body {
-    background: #0d0d0d;
-    font-family: 'Courier New', Courier, monospace;
-    color: #00ff00;
-    overflow: hidden;
-  }
+<h1 align="center" style="color: #00ff00; text-shadow: 0px 0px 10px rgba(0, 255, 0, 0.8);">
+  Accessing Soliha's GitHub...
+</h1>
 
-  h1 {
-    font-size: 50px;
-    animation: flicker 1.5s infinite alternate;
-    text-shadow: 0px 0px 20px rgba(0, 255, 0, 0.7);
-  }
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhseGdyY3U3bTNhNGE3MDZ0bjhjcWwwMzB0dTkwYzVseHhvdHQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="100" height="100"/>
+</p>
 
-  @keyframes flicker {
-    0% {
-      opacity: 1;
-      text-shadow: 0px 0px 10px rgba(0, 255, 0, 0.8);
-    }
-    50% {
-      opacity: 0.4;
-      text-shadow: 0px 0px 20px rgba(0, 255, 0, 1);
-    }
-    100% {
-      opacity: 1;
-      text-shadow: 0px 0px 10px rgba(0, 255, 0, 0.8);
-    }
-  }
-</style>
+<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  Initializing codespace...
+</p>
 
-<h1>Accessing Soliha's GitHub...</h1>
+<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  Running scripts...
+</p>
+
+<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  Installing dependencies...
+</p>
+
+<h2 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  Access Granted!
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&theme=highcontrast&border_radius=10" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" alt="Visitor Count" />
+</p>
+
 
 
 

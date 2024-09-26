@@ -1,49 +1,50 @@
-<h1 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 20px rgba(0, 255, 0, 0.7);">
+<h1 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
   Accessing Soliha's GitHub...
 </h1>
 
-<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  ███████╗██╗░░██╗██████╗░██╗░░██╗██╗██╗██╗░░░██╗██╗░░██╗
-</p>
-<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  ██╔════╝██║░░██║██╔══██╗╚██╗██╔╝██║██║██║░░░██║██║░░██║
-</p>
-<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  █████╗░███████║██████╔╝░╚███╔╝░██║██║██║░░░██║███████║
-</p>
-<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  ██╔══╝░██╔══██║██╔═══╝░░██╔██╗░██║██║██║░░░██║██╔══██║
-</p>
-<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  ███████╗██║░░██║██║░░░░░░██║╚██╗██║██║╚██████╔╝██║░░██║
-</p>
-<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  ╚══════╝╚═╝░░╚═╝╚═╝░░░░░░╚═╝░╚═╝╚═╝░╚═════╝░╚═╝░░╚═╝
-</p>
+<pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+██████╗░██╗░░░██╗██╗░░██╗██╗██╗██╗░░░██╗░░░░░░░░░░░░░░░░
+██╔══██╗╚██╗░██╔╝██║░░██║██║██║██║░░░██║░░░░░░░░░░░░░░░░
+██████╦╝░╚████╔╝░███████║██║██║██║░░░██║░░░░░░░░░░░░░░░░
+██╔══██╗░░╚██╔╝░░██╔══██║██║██║██║░░░██║░░░░░░░░░░░░░░░░
+██████╦╝░░░██║░░░██║░░██║██║██║╚██████╔╝░░░░░░░░░░░░░░░░
+╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═╝░╚═════╝░░░░░░░░░░░░░░░░░
+</pre>
 
 <p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  Initializing codespace...
+  Initializing hacking sequence...
 </p>
 
-<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  Running scripts...
-</p>
+<pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+    [*] Accessing database...
+    [*] Retrieving data...
+    [*] Data integrity: 100%
+    [*] Download complete.
+</pre>
 
 <p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  Installing dependencies...
+  Running diagnostics...
 </p>
+
+<pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+    [*] Scanning network...
+    [*] Port 22: OPEN
+    [*] Port 80: OPEN
+    [*] Port 443: OPEN
+</pre>
 
 <h2 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  Access Granted!
+  ACCESS GRANTED
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&theme=highcontrast&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/_blocage/count.svg" alt="Visitor Count" />
 </p>
+
 
 
 

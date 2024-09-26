@@ -1,40 +1,35 @@
-<canvas id="matrix"></canvas>
-
-<script>
-  const canvas = document.getElementById('matrix');
-  const ctx = canvas.getContext('2d');
-
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
-
-  const matrixCharacters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$%^&*()*&^%';
-  const fontSize = 16;
-  const columns = canvas.width / fontSize;
-  const drops = Array(Math.floor(columns)).fill(1);
-
-  function drawMatrix() {
-    ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-    ctx.fillStyle = '#00ff00';
-    ctx.font = `${fontSize}px Courier`;
-
-    for (let i = 0; i < drops.length; i++) {
-      const text = matrixCharacters.charAt(
-        Math.floor(Math.random() * matrixCharacters.length)
-      );
-      ctx.fillText(text, i * fontSize, drops[i] * fontSize);
-
-      if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
-        drops[i] = 0;
-      }
-
-      drops[i]++;
-    }
+<style>
+  body {
+    background: #0d0d0d;
+    font-family: 'Courier New', Courier, monospace;
+    color: #00ff00;
+    overflow: hidden;
   }
 
-  setInterval(drawMatrix, 30);
-</script>
+  h1 {
+    font-size: 50px;
+    animation: flicker 1.5s infinite alternate;
+    text-shadow: 0px 0px 20px rgba(0, 255, 0, 0.7);
+  }
+
+  @keyframes flicker {
+    0% {
+      opacity: 1;
+      text-shadow: 0px 0px 10px rgba(0, 255, 0, 0.8);
+    }
+    50% {
+      opacity: 0.4;
+      text-shadow: 0px 0px 20px rgba(0, 255, 0, 1);
+    }
+    100% {
+      opacity: 1;
+      text-shadow: 0px 0px 10px rgba(0, 255, 0, 0.8);
+    }
+  }
+</style>
+
+<h1>Accessing Soliha's GitHub...</h1>
+
 
 
 

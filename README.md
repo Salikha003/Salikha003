@@ -1,9 +1,24 @@
-<h1 align="center" style="color: #00ff00; text-shadow: 0px 0px 10px rgba(0, 255, 0, 0.8);">
+<h1 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace; text-shadow: 0 0 20px rgba(0, 255, 0, 0.7);">
   Accessing Soliha's GitHub...
 </h1>
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhseGdyY3U3bTNhNGE3MDZ0bjhjcWwwMzB0dTkwYzVseHhvdHQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="100" height="100"/>
+<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  ███████╗██╗░░██╗██████╗░██╗░░██╗██╗██╗██╗░░░██╗██╗░░██╗
+</p>
+<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  ██╔════╝██║░░██║██╔══██╗╚██╗██╔╝██║██║██║░░░██║██║░░██║
+</p>
+<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  █████╗░███████║██████╔╝░╚███╔╝░██║██║██║░░░██║███████║
+</p>
+<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  ██╔══╝░██╔══██║██╔═══╝░░██╔██╗░██║██║██║░░░██║██╔══██║
+</p>
+<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  ███████╗██║░░██║██║░░░░░░██║╚██╗██║██║╚██████╔╝██║░░██║
+</p>
+<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
+  ╚══════╝╚═╝░░╚═╝╚═╝░░░░░░╚═╝░╚═╝╚═╝░╚═════╝░╚═╝░░╚═╝
 </p>
 
 <p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
@@ -29,6 +44,7 @@
 <p align="center">
   <img src="https://profile-counter.glitch.me/_blocage/count.svg" alt="Visitor Count" />
 </p>
+
 
 
 

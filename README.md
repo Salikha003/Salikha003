@@ -1,13 +1,17 @@
-# Matrix Effect
-
-This project features a captivating Matrix-style visual effect created using HTML5 Canvas and JavaScript.
-
-## How It Works
-
-The Matrix effect simulates falling characters inspired by the iconic movie. The following code snippet demonstrates how to implement this effect:
-
-```html
 <canvas id="matrix"></canvas>
+
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    overflow: hidden;
+  }
+
+  #matrix {
+    display: block;
+  }
+</style>
 
 <script>
   const canvas = document.getElementById('matrix');
@@ -16,7 +20,7 @@ The Matrix effect simulates falling characters inspired by the iconic movie. The
   canvas.width = window.innerWidth;
   canvas.height = window.innerHeight;
 
-  const matrixCharacters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$%^&*()*&^%';
+  const characters = '01';
   const fontSize = 16;
   const columns = canvas.width / fontSize;
   const drops = Array(Math.floor(columns)).fill(1);
@@ -25,13 +29,11 @@ The Matrix effect simulates falling characters inspired by the iconic movie. The
     ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-    ctx.fillStyle = '#00ff00';
-    ctx.font = `${fontSize}px Courier`;
+    ctx.fillStyle = '#00ff00'; // Green color
+    ctx.font = `${fontSize}px monospace`;
 
     for (let i = 0; i < drops.length; i++) {
-      const text = matrixCharacters.charAt(
-        Math.floor(Math.random() * matrixCharacters.length)
-      );
+      const text = characters.charAt(Math.floor(Math.random() * characters.length));
       ctx.fillText(text, i * fontSize, drops[i] * fontSize);
 
       if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
@@ -44,6 +46,12 @@ The Matrix effect simulates falling characters inspired by the iconic movie. The
 
   setInterval(drawMatrix, 30);
 </script>
+
+
+
+
+
+
 
 
 

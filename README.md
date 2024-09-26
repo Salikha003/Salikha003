@@ -1,17 +1,23 @@
-<div style="font-family: 'Courier New', monospace; color: #00ff00; white-space: pre; overflow: hidden;">
-  <div style="animation: fall 0.5s linear infinite; font-size: 20px;">0 1 0 0 1 1 0 1 0</div>
-  <div style="animation: fall 0.6s linear infinite; font-size: 20px;">1 1 0 1 0 0 1 0 1</div>
-  <div style="animation: fall 0.7s linear infinite; font-size: 20px;">0 0 1 1 0 1 1 0 0</div>
-  <div style="animation: fall 0.8s linear infinite; font-size: 20px;">1 0 0 0 1 1 0 1 0</div>
-  <div style="animation: fall 0.9s linear infinite; font-size: 20px;">0 1 1 0 1 0 1 0 1</div>
+<div style="background-color: black; color: #00ff00; font-family: 'Courier New', Courier, monospace; position: relative; overflow: hidden; height: 400px;">
+
+  <div style="position: absolute; white-space: nowrap; overflow: hidden;">
+    <span style="display: inline-block; animation: fall 4s linear infinite;">0</span>
+    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 0.2s;">1</span>
+    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 0.4s;">0</span>
+    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 0.6s;">1</span>
+    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 0.8s;">0</span>
+    <span style="display: inline-block; animation: fall 4s linear infinite; animation-delay: 1s;">1</span>
+  </div>
+
+  <style>
+    @keyframes fall {
+      0% { transform: translateY(-100%); opacity: 1; }
+      100% { transform: translateY(100%); opacity: 0; }
+    }
+  </style>
+
 </div>
 
-<style>
-  @keyframes fall {
-    0% { transform: translateY(-100%); }
-    100% { transform: translateY(100%); }
-  }
-</style>
 
 
 

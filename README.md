@@ -1,49 +1,50 @@
-<h1 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  Accessing Soliha's GitHub...
-</h1>
+# Matrix Effect
 
-<pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-██████╗░██╗░░░██╗██╗░░██╗██╗██╗██╗░░░██╗░░░░░░░░░░░░░░░░
-██╔══██╗╚██╗░██╔╝██║░░██║██║██║██║░░░██║░░░░░░░░░░░░░░░░
-██████╦╝░╚████╔╝░███████║██║██║██║░░░██║░░░░░░░░░░░░░░░░
-██╔══██╗░░╚██╔╝░░██╔══██║██║██║██║░░░██║░░░░░░░░░░░░░░░░
-██████╦╝░░░██║░░░██║░░██║██║██║╚██████╔╝░░░░░░░░░░░░░░░░
-╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚═╝╚═╝░╚═════╝░░░░░░░░░░░░░░░░░
-</pre>
+This project features a captivating Matrix-style visual effect created using HTML5 Canvas and JavaScript.
 
-<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  Initializing hacking sequence...
-</p>
+## How It Works
 
-<pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-    [*] Accessing database...
-    [*] Retrieving data...
-    [*] Data integrity: 100%
-    [*] Download complete.
-</pre>
+The Matrix effect simulates falling characters inspired by the iconic movie. The following code snippet demonstrates how to implement this effect:
 
-<p align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  Running diagnostics...
-</p>
+```html
+<canvas id="matrix"></canvas>
 
-<pre style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-    [*] Scanning network...
-    [*] Port 22: OPEN
-    [*] Port 80: OPEN
-    [*] Port 443: OPEN
-</pre>
+<script>
+  const canvas = document.getElementById('matrix');
+  const ctx = canvas.getContext('2d');
 
-<h2 align="center" style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">
-  ACCESS GRANTED
-</h2>
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salikha003&show_icons=true&theme=radical&border_radius=10" alt="GitHub Stats" />
-</p>
+  const matrixCharacters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ123456789@#$%^&*()*&^%';
+  const fontSize = 16;
+  const columns = canvas.width / fontSize;
+  const drops = Array(Math.floor(columns)).fill(1);
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" alt="Visitor Count" />
-</p>
+  function drawMatrix() {
+    ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
+    ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+    ctx.fillStyle = '#00ff00';
+    ctx.font = `${fontSize}px Courier`;
+
+    for (let i = 0; i < drops.length; i++) {
+      const text = matrixCharacters.charAt(
+        Math.floor(Math.random() * matrixCharacters.length)
+      );
+      ctx.fillText(text, i * fontSize, drops[i] * fontSize);
+
+      if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
+        drops[i] = 0;
+      }
+
+      drops[i]++;
+    }
+  }
+
+  setInterval(drawMatrix, 30);
+</script>
+
 
 
 

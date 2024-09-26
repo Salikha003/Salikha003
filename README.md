@@ -1,6 +1,21 @@
-![Python Hacker](https://img.shields.io/badge/Python-Hacker%20Mode-brightgreen?style=for-the-badge&logo=python&logoColor=black)
-![Django Terminal](https://img.shields.io/badge/Django-Terminal%20Mode-green?style=for-the-badge&logo=django)
-![REST API](https://img.shields.io/badge/REST%20API-%F0%9F%94%8D-brightgreen?style=for-the-badge&logo=postman)
+body {
+  background: linear-gradient(45deg, #ff0050, #0cbaba);
+  color: white;
+  font-family: 'Roboto Mono', monospace;
+}
+
+h1 {
+  color: #00ffff;
+  text-shadow: 0 0 10px #00ffff, 0 0 20px #ff00ff, 0 0 30px #ff00ff;
+}
+
+a {
+  color: #00ffff;
+  text-shadow: 0 0 10px #00ffff, 0 0 20px #ff00ff, 0 0 30px #ff00ff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
 
 
 

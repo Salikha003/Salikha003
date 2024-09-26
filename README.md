@@ -1,51 +1,18 @@
-<canvas id="matrix"></canvas>
+<div style="font-family: 'Courier New', monospace; color: #00ff00; white-space: pre; overflow: hidden;">
+  <div style="animation: fall 0.5s linear infinite; font-size: 20px;">0 1 0 0 1 1 0 1 0</div>
+  <div style="animation: fall 0.6s linear infinite; font-size: 20px;">1 1 0 1 0 0 1 0 1</div>
+  <div style="animation: fall 0.7s linear infinite; font-size: 20px;">0 0 1 1 0 1 1 0 0</div>
+  <div style="animation: fall 0.8s linear infinite; font-size: 20px;">1 0 0 0 1 1 0 1 0</div>
+  <div style="animation: fall 0.9s linear infinite; font-size: 20px;">0 1 1 0 1 0 1 0 1</div>
+</div>
 
 <style>
-  body {
-    margin: 0;
-    padding: 0;
-    background: black;
-    overflow: hidden;
-  }
-
-  #matrix {
-    display: block;
+  @keyframes fall {
+    0% { transform: translateY(-100%); }
+    100% { transform: translateY(100%); }
   }
 </style>
 
-<script>
-  const canvas = document.getElementById('matrix');
-  const ctx = canvas.getContext('2d');
-
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
-
-  const characters = '01';
-  const fontSize = 16;
-  const columns = canvas.width / fontSize;
-  const drops = Array(Math.floor(columns)).fill(1);
-
-  function drawMatrix() {
-    ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-    ctx.fillStyle = '#00ff00'; // Green color
-    ctx.font = `${fontSize}px monospace`;
-
-    for (let i = 0; i < drops.length; i++) {
-      const text = characters.charAt(Math.floor(Math.random() * characters.length));
-      ctx.fillText(text, i * fontSize, drops[i] * fontSize);
-
-      if (drops[i] * fontSize > canvas.height && Math.random() > 0.975) {
-        drops[i] = 0;
-      }
-
-      drops[i]++;
-    }
-  }
-
-  setInterval(drawMatrix, 30);
-</script>
 
 
 

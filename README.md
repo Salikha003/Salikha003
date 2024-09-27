@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Salikha003/Salikha003/main/11111000.jpg" alt="Matrix Code" width="1200" height="50">
+  <img src="https://raw.githubusercontent.com/Salikha003/Salikha003/main/11111000.jpg" alt="Matrix Code" width="1200" height="80">
 </p>
 
 

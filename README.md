@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="https://media.tenor.com/XYc4bBHC7lgAAAAM/matrix-code.gif" alt="Matrix Code" />
+</p>
 
-![Matrix Code](https://media.tenor.com/XYc4bBHC7lgAAAAM/matrix-code.gif)
 
 
 

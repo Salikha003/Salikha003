@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif" alt="Matrix Code" width="800" height="450">
-</p>
+
 
 
 

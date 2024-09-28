@@ -1,15 +1,6 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXIxcDFybzYxNHNrYjU1d2hkcTJtM3Iya2VrZzhodzZ4c3Rwc3Y3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/200.webp" alt="Matrix Code" width="1200" height="100">
 </p>
-<p align="center">
-  <strong>𝐇𝐞𝐥𝐥𝐨 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞</strong> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhseGdyY3U3bTNhNGE3MDZ0bjhjcWwwMzB0dTkwYzVseHhvdHQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30px"><br><strong>𝐈 𝐚𝐦 𝐒𝐨𝐥𝐢𝐡𝐚 𝐇𝐮𝐬𝐧𝐢𝐝𝐝𝐢𝐧𝐨𝐯𝐚</strong>
-</p>
-
-
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXIxcDFybzYxNHNrYjU1d2hkcTJtM3Iya2VrZzhodzZ4c3Rwc3Y3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/200.webp" alt="Matrix Code" width="1200" height="100">
-</p>
 
 ### 𝐇𝐞𝐥𝐥𝐨 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhseGdyY3U3bTNhNGE3MDZ0bjhjcWwwMzB0dTkwYzVseHhvdHQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30px"><br> 𝐈 𝐚𝐦 𝐒𝐨𝐥𝐢𝐡𝐚 𝐇𝐮𝐬𝐧𝐢𝐝𝐝𝐢𝐧𝐨𝐯𝐚
 

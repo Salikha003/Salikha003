@@ -5,8 +5,7 @@
 ### 𝐇𝐞𝐥𝐥𝐨 𝐞𝐯𝐞𝐫𝐲𝐨𝐧𝐞  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXhseGdyY3U3bTNhNGE3MDZ0bjhjcWwwMzB0dTkwYzVseHhvdHQ5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gM5qFksULw54NMWyry/giphy.gif" width="30px"><br> 𝐈 𝐚𝐦 𝐒𝐨𝐥𝐢𝐡𝐚 𝐇𝐮𝐬𝐧𝐢𝐝𝐝𝐢𝐧𝐨𝐯𝐚
 
 
-I’m Soliha, and I’m deeply passionate about learning new technologies and creating innovations as a developer.
-
+I’m Soliha, and I’m deeply passionate about learning new technologies and creating innovations as a developer.    
 I believe that technology has the power to make the world better, and every project is a step towards that goal. I eagerly look forward to tackling new challenges and engaging with interesting projects. I’m always open to new ideas and development opportunities.
 
 <br>

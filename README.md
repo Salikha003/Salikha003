@@ -6,6 +6,7 @@
 
 
 I’m Soliha, and I’m deeply passionate about learning new technologies and creating innovations as a developer.
+
 I believe that technology has the power to make the world better, and every project is a step towards that goal. I eagerly look forward to tackling new challenges and engaging with interesting projects. I’m always open to new ideas and development opportunities.
 
 <br>
